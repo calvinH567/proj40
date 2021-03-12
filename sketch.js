@@ -38,7 +38,6 @@ function setup() {
 }
 
 function draw() {
-  console.log(player.name)
   background(back_img);
  
 
