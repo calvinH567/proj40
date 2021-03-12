@@ -40,7 +40,7 @@ function setup() {
 function draw() {
   console.log(player.name)
   background(back_img);
-  text (player.name,);
+ 
 
   // Add conditions for gameStates and playerCount
   if(playerCount >=2){
